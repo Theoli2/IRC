@@ -1,0 +1,7 @@
+# Build output
+objs/
+*.o
+IRC
+
+# Editor
+.vscode/
